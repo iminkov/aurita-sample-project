@@ -1,0 +1,2 @@
+
+require 'aurita/plugin'
